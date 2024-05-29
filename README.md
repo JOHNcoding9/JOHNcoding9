@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @JOHNcoding9
+- 👋 Hi, I’m @JOHNcoding9, currently doing software engineering at Unisatc
 - 👀 I’m interested in games, coding, cybersecurity
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on my own projects like sites and games, and also do something related to cybersecurity
-- 📫 How to reach me  ghostcode541@gmail.com
+- 📫 How to reach me  ghostcode541@gmail.com and instagram: ghostcode264
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
