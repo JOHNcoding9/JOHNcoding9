@@ -4,3 +4,4 @@
 - 💞️ TRYING to Elaborate my own projects (sites, games and also do something related to cybersecurity or ML)
 - 📫 How to REACH ME   email: ghostcode541@gmail.com
 -  instagram: ghostcode264
+- Linkedin: www.linkedin.com/in/joão-vitor-de-oliveira-lima-4127ba2b6
