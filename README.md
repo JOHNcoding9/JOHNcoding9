@@ -1,6 +1,6 @@
 - 👋 currently doing SOFTWARE ENGINEERING at Unisatc
 - 👀 INTERESTED in games, coding, cybersecurity, machine Learning, Ai
 - 🌱 CURRENTLY learning Python
-- 💞️ LOOKING to collaborate on my own projects like sites and games, and also do something related to cybersecurity
+- 💞️ TRYING to Elaborate on my own projects (sites, games and also do something related to cybersecurity or ML)
 - 📫 How to REACH ME   email: ghostcode541@gmail.com
 -  instagram: ghostcode264
