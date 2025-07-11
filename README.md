@@ -18,7 +18,7 @@
 - 🔹 Python
 - 🔹 SQL (PostgreSQL / MySQL)
 - 🔹 HTML + CSS + JavaScript (Vanilla)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghostcode541&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JOHNcoding9&layout=compact&theme=tokyonight)
 ---
 
 ### 🛠️ What I'm Working On
