@@ -18,7 +18,6 @@
 - 🔹 Python
 - 🔹 SQL (PostgreSQL / MySQL)
 - 🔹 HTML + CSS + JavaScript (Vanilla)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JOHNcoding9&layout=compact&theme=tokyonight)
 ---
 
 ### 🛠️ What I'm Working On
@@ -37,6 +36,8 @@
 - 💼 LinkedIn: [João Vitor de Oliveira Lima](https://www.linkedin.com/in/joão-vitor-de-oliveira-lima-4127ba2b6)
 - 📄 Résumé (PDF): [tinyurl.com/curriculojoao](https://tinyurl.com/curriculojoao)
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JOHNcoding9&layout=compact&theme=tokyonight)
 
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
