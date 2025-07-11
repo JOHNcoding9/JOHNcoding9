@@ -1,6 +1,6 @@
 ### 👋 Hello! I'm João Vitor
 
-🎓 Currently pursuing a **Bachelor’s in Software Engineering** at **UNISATC**
+🎓 Currently pursuing a **Bachelor’s in Software Engineering** at **UNISATC** (2024 - 2028)
 
 ---
 
